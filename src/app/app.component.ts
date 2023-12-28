@@ -17,4 +17,5 @@ export class AppComponent {
   maks = DRIVERS[1];
   checo = DRIVERS[2];
   lewis = DRIVERS[3];
+  vozaci = DRIVERS;
 }
